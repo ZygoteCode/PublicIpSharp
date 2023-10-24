@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicIpSharp", "PublicIpSharp.csproj", "{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Debug|x64.ActiveCfg = Debug|x64
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Debug|x64.Build.0 = Debug|x64
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Release|x64.ActiveCfg = Release|x64
+		{8FB1F892-75AF-4C42-8C66-068F3C6BFC26}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D98829-A7AF-4AE7-A498-675B82644F43}
+	EndGlobalSection
+EndGlobal
